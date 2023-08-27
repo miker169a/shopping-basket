@@ -10,8 +10,6 @@
    - [Compile TypeScript to JavaScript](#compile-typescript-to-javascript)
    - [Run Tests](#run-tests)
 4. [Usage](#usage)
-5. [Contributing](#contributing)
-6. [License](#license)
 
 ## Features
 
@@ -28,7 +26,7 @@
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/shopping-basket-calculator.git
+git clone https://github.com/miker169a/shopping-basket-calculator.git
 cd shopping-basket-calculator
 ```
 
@@ -46,7 +44,7 @@ npm install
 npm test
 ```
 
-### Usage
+## Usage
 
 Currently, the application contains a function calculateTotal that takes an array of items and returns the total cost.
 
